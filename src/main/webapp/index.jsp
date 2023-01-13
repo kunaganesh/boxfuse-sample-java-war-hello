@@ -56,7 +56,7 @@
 <p>If you need any help the <strong><a href="http://boxfuse.com/docs">documentation</a></strong> is there for you,<br/>or simply shoot us an email at <a href="mailto:support@boxfuse.com">support@boxfuse.com</a></p>
 
 <p>Say goodbye to snowflake servers.</p>
-<p><strong>Enjoy Boxfuse!</strong></p>
+<p><strong>Enjoy Boxfuse! THis is ci cd with contanierized</strong></p>
 <% } %>
 </body>
 </html>
